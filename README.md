@@ -14,12 +14,31 @@ If you are developing a production application, we recommend using TypeScript an
 
 Este es un sistema inmobiliario desarrollado con **React**.
 
+Antes de comenzar, asegúrate de tener instalados los siguientes programas:
+
+- [Node.js](https://nodejs.org/) (versión LTS recomendada)
+- [npm](https://www.npmjs.com/) (se instala junto con Node.js)
+
 ## 🚀 Instalación y ejecución
 
 Sigue estos pasos para clonar el repositorio e iniciar el servicio en tu máquina local.
 
 ### 📥 Clonar el repositorio
+1. Abre una terminal y navega al directorio donde quieras clonar el repositorio.
+2. Ejecuta el siguiente comando para clonar el repositorio:
 
 ```bash
 git clone https://github.com/ales-82/sistema-inmobiliaria.git
 cd sistema-inmobiliaria
+
+##Instalación de Dependencias
+```bash
+npm install
+
+##Iniciar el servidor
+```bash
+npm run dev
+
+##Licencia
+ - Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+
