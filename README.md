@@ -32,15 +32,15 @@ git clone https://github.com/ales-82/sistema-inmobiliaria.git
 cd sistema-inmobiliaria
 ```
 
-##Instalación de Dependencias
+## Instalación de Dependencias
 ```bash
 npm install
 ```
-##Iniciar el servidor
+## Iniciar el servidor
 ```bash
 npm run dev
 ```
 
-##Licencia
+## Licencia
  - Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
