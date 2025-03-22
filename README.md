@@ -30,14 +30,16 @@ Sigue estos pasos para clonar el repositorio e iniciar el servicio en tu máquin
 ```bash
 git clone https://github.com/ales-82/sistema-inmobiliaria.git
 cd sistema-inmobiliaria
+```
 
 ##Instalación de Dependencias
 ```bash
 npm install
-
+```
 ##Iniciar el servidor
 ```bash
 npm run dev
+```
 
 ##Licencia
  - Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
