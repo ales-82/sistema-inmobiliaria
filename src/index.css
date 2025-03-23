@@ -49,6 +49,7 @@ body{
 .bg-custom{
   background-color: #02441D;  
   opacity: 1;
+  height: 2px;
 }
 
 .width-custom{
@@ -66,6 +67,9 @@ body{
   border-top-right-radius: 20px;
 }
 
+.bg-custom-card{
+  background-color: transparent;
+}
 /*footer*/
 .bg-fondo-custom{
   /*background: rgb(25,135,84);
